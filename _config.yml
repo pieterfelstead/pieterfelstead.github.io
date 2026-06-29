@@ -13,7 +13,7 @@ title                    : "Pieter Felstead"
 title_separator          : "-"
 name                     : &name "Pieter Felstead"
 description              : &description "This website outlines my experience and skills and contains examples of projects worked on"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://pieterfelstead.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Pieter Felstead"
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Derby"
+  employer         : "T4 Sustainability"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "pieterfelstead@posteo.uk" 
 
   # Academic websites
   academia         : # URL
